@@ -1,0 +1,764 @@
+{
+  "teams": [
+    {
+      "id": "team-01",
+      "groupNumber": 1,
+      "teamNumber": "TEAM-01",
+      "teamName": "Give Teas",
+      "sihId": "SIH26162",
+      "projectName": "AI-Based Detection and Classification of Industrial Fires and Persistent Thermal Sources Using NASA FIRMS, OSM & Satellite Data",
+      "shortProjectName": "Industrial Fire Detection via NASA Satellites",
+      "theme": "Disaster Management",
+      "teamLeader": "Akshay Patil",
+      "department": "KJ Somaiya Institute of Management",
+      "members": [
+        "Akshay Patil"
+      ],
+      "judgement": {
+        "round1": 22,
+        "round2": null,
+        "round3": null,
+        "finalAverage": 22,
+        "isFinalized": false,
+        "status": "R1_COMPLETE"
+      },
+      "roundScores": [
+        {
+          "roundNumber": 1,
+          "score": 22,
+          "maxScore": 100,
+          "submittedAt": "2026-09-23T08:08:00.701Z",
+          "submittedBy": "Somaiya SIH Administrator"
+        }
+      ],
+      "history": [
+        {
+          "id": "hist-1790150880701-8wau",
+          "teamId": "team-01",
+          "roundNumber": 1,
+          "action": "ROUND_SUBMIT",
+          "previousScore": null,
+          "newScore": 22,
+          "timestamp": "2026-09-23T08:08:00.701Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 1 updated: 22 / 100"
+        },
+        {
+          "id": "hist-1790149669822-dchl",
+          "teamId": "team-01",
+          "roundNumber": 3,
+          "action": "ROUND_SUBMIT",
+          "previousScore": 95,
+          "newScore": 0,
+          "timestamp": "2026-09-23T07:47:49.822Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 3 updated: cleared / 100"
+        },
+        {
+          "id": "hist-1790149669822-cq5f",
+          "teamId": "team-01",
+          "roundNumber": 2,
+          "action": "ROUND_SUBMIT",
+          "previousScore": 90,
+          "newScore": 0,
+          "timestamp": "2026-09-23T07:47:49.822Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 2 updated: cleared / 100"
+        },
+        {
+          "id": "hist-1790149669822-kmip",
+          "teamId": "team-01",
+          "roundNumber": 1,
+          "action": "ROUND_SUBMIT",
+          "previousScore": 85,
+          "newScore": 0,
+          "timestamp": "2026-09-23T07:47:49.822Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 1 updated: cleared / 100"
+        },
+        {
+          "id": "hist-1790149669819-640o",
+          "teamId": "team-01",
+          "roundNumber": 3,
+          "action": "ROUND_SUBMIT",
+          "previousScore": null,
+          "newScore": 95,
+          "timestamp": "2026-09-23T07:47:49.819Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 3 updated: 95 / 100"
+        },
+        {
+          "id": "hist-1790149669819-5gfb",
+          "teamId": "team-01",
+          "roundNumber": 2,
+          "action": "ROUND_SUBMIT",
+          "previousScore": null,
+          "newScore": 90,
+          "timestamp": "2026-09-23T07:47:49.819Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 2 updated: 90 / 100"
+        },
+        {
+          "id": "hist-1790149669819-058w",
+          "teamId": "team-01",
+          "roundNumber": 1,
+          "action": "ROUND_SUBMIT",
+          "previousScore": 21,
+          "newScore": 85,
+          "timestamp": "2026-09-23T07:47:49.819Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 1 updated: 85 / 100"
+        },
+        {
+          "id": "hist-1790149526572-5anf",
+          "teamId": "team-01",
+          "roundNumber": 1,
+          "action": "ROUND_SUBMIT",
+          "previousScore": null,
+          "newScore": 21,
+          "timestamp": "2026-09-23T07:45:26.572Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 1 updated: 21 / 100"
+        },
+        {
+          "id": "hist-1790149338409-s6nm",
+          "teamId": "team-01",
+          "roundNumber": 3,
+          "action": "ROUND_SUBMIT",
+          "previousScore": 95,
+          "newScore": 0,
+          "timestamp": "2026-09-23T07:42:18.409Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 3 updated: cleared / 100"
+        },
+        {
+          "id": "hist-1790149338409-epp1",
+          "teamId": "team-01",
+          "roundNumber": 2,
+          "action": "ROUND_SUBMIT",
+          "previousScore": 90,
+          "newScore": 0,
+          "timestamp": "2026-09-23T07:42:18.409Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 2 updated: cleared / 100"
+        },
+        {
+          "id": "hist-1790149338409-nv99",
+          "teamId": "team-01",
+          "roundNumber": 1,
+          "action": "ROUND_SUBMIT",
+          "previousScore": 85,
+          "newScore": 0,
+          "timestamp": "2026-09-23T07:42:18.409Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 1 updated: cleared / 100"
+        },
+        {
+          "id": "hist-1790149338406-4g11",
+          "teamId": "team-01",
+          "roundNumber": 3,
+          "action": "ROUND_SUBMIT",
+          "previousScore": null,
+          "newScore": 95,
+          "timestamp": "2026-09-23T07:42:18.406Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 3 updated: 95 / 100"
+        },
+        {
+          "id": "hist-1790149338406-phzl",
+          "teamId": "team-01",
+          "roundNumber": 2,
+          "action": "ROUND_SUBMIT",
+          "previousScore": null,
+          "newScore": 90,
+          "timestamp": "2026-09-23T07:42:18.406Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 2 updated: 90 / 100"
+        },
+        {
+          "id": "hist-1790149338406-rmqe",
+          "teamId": "team-01",
+          "roundNumber": 1,
+          "action": "ROUND_SUBMIT",
+          "previousScore": null,
+          "newScore": 85,
+          "timestamp": "2026-09-23T07:42:18.406Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 1 updated: 85 / 100"
+        }
+      ],
+      "createdAt": "2026-09-23T07:05:56.101Z",
+      "updatedAt": "2026-09-23T08:08:00.701Z"
+    },
+    {
+      "id": "team-02",
+      "groupNumber": 2,
+      "teamNumber": "TEAM-02",
+      "teamName": "Pensieve",
+      "sihId": "SIH26003",
+      "projectName": "AI-Based Cognitive Gaming and Memory Assistance Platform for Elderly Dementia Patients in North Eastern Region (NER)",
+      "shortProjectName": "Cognitive Gaming for Dementia Care",
+      "theme": "MedTech / BioTech / HealthTech",
+      "teamLeader": "Aarya Rahate",
+      "department": "KJ Somaiya Institute of Management",
+      "members": [
+        "Aarya Rahate"
+      ],
+      "judgement": {
+        "round1": 45,
+        "round2": null,
+        "round3": null,
+        "finalAverage": 45,
+        "isFinalized": false,
+        "status": "R1_COMPLETE"
+      },
+      "roundScores": [
+        {
+          "roundNumber": 1,
+          "score": 45,
+          "maxScore": 100,
+          "submittedAt": "2026-09-23T08:21:37.206Z",
+          "submittedBy": "Somaiya SIH Administrator"
+        }
+      ],
+      "history": [
+        {
+          "id": "hist-1790151697206-d4o4",
+          "teamId": "team-02",
+          "roundNumber": 1,
+          "action": "ROUND_SUBMIT",
+          "previousScore": null,
+          "newScore": 45,
+          "timestamp": "2026-09-23T08:21:37.206Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 1 updated: 45 / 100"
+        },
+        {
+          "id": "hist-1790149669834-ypf3",
+          "teamId": "team-02",
+          "roundNumber": 3,
+          "action": "ROUND_SUBMIT",
+          "previousScore": 93,
+          "newScore": 0,
+          "timestamp": "2026-09-23T07:47:49.834Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 3 updated: cleared / 100"
+        },
+        {
+          "id": "hist-1790149669834-10lz",
+          "teamId": "team-02",
+          "roundNumber": 2,
+          "action": "ROUND_SUBMIT",
+          "previousScore": 89,
+          "newScore": 0,
+          "timestamp": "2026-09-23T07:47:49.834Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 2 updated: cleared / 100"
+        },
+        {
+          "id": "hist-1790149669834-czxf",
+          "teamId": "team-02",
+          "roundNumber": 1,
+          "action": "ROUND_SUBMIT",
+          "previousScore": 88,
+          "newScore": 0,
+          "timestamp": "2026-09-23T07:47:49.834Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 1 updated: cleared / 100"
+        },
+        {
+          "id": "hist-1790149669831-th80",
+          "teamId": "team-02",
+          "roundNumber": 3,
+          "action": "ROUND_SUBMIT",
+          "previousScore": null,
+          "newScore": 93,
+          "timestamp": "2026-09-23T07:47:49.831Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 3 updated: 93 / 100"
+        },
+        {
+          "id": "hist-1790149669831-efs2",
+          "teamId": "team-02",
+          "roundNumber": 2,
+          "action": "ROUND_SUBMIT",
+          "previousScore": null,
+          "newScore": 89,
+          "timestamp": "2026-09-23T07:47:49.831Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 2 updated: 89 / 100"
+        },
+        {
+          "id": "hist-1790149669831-bj91",
+          "teamId": "team-02",
+          "roundNumber": 1,
+          "action": "ROUND_SUBMIT",
+          "previousScore": 22,
+          "newScore": 88,
+          "timestamp": "2026-09-23T07:47:49.831Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 1 updated: 88 / 100"
+        },
+        {
+          "id": "hist-1790149535655-68j7",
+          "teamId": "team-02",
+          "roundNumber": 1,
+          "action": "ROUND_SUBMIT",
+          "previousScore": null,
+          "newScore": 22,
+          "timestamp": "2026-09-23T07:45:35.655Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 1 updated: 22 / 100"
+        }
+      ],
+      "createdAt": "2026-09-23T07:05:56.101Z",
+      "updatedAt": "2026-09-23T08:21:37.206Z"
+    },
+    {
+      "id": "team-03",
+      "groupNumber": 3,
+      "teamNumber": "TEAM-03",
+      "teamName": "Console.log",
+      "sihId": "SIH26089",
+      "projectName": "Cooperative Gig Services Platform for Household & Community Services",
+      "shortProjectName": "Cooperative Gig Community Platform",
+      "theme": "Agriculture, FoodTech & Rural Development",
+      "teamLeader": "Lipsa Lenka",
+      "department": "KJ Somaiya Institute of Management",
+      "members": [
+        "Lipsa Lenka"
+      ],
+      "judgement": {
+        "round1": 78,
+        "round2": null,
+        "round3": null,
+        "finalAverage": 78,
+        "isFinalized": false,
+        "status": "R1_COMPLETE"
+      },
+      "roundScores": [
+        {
+          "roundNumber": 1,
+          "score": 78,
+          "maxScore": 100,
+          "submittedAt": "2026-09-23T08:07:23.719Z",
+          "submittedBy": "Somaiya SIH Administrator"
+        }
+      ],
+      "history": [
+        {
+          "id": "hist-1790149495021-8vip",
+          "teamId": "team-03",
+          "roundNumber": 1,
+          "action": "ROUND_SUBMIT",
+          "previousScore": null,
+          "newScore": 78,
+          "timestamp": "2026-09-23T07:44:55.021Z",
+          "updatedBy": "Somaiya SIH Administrator",
+          "changeNote": "Round 1 updated: 78 / 100"
+        }
+      ],
+      "createdAt": "2026-09-23T07:05:56.101Z",
+      "updatedAt": "2026-09-23T08:07:23.719Z"
+    },
+    {
+      "id": "team-04",
+      "groupNumber": 4,
+      "teamNumber": "TEAM-04",
+      "teamName": "Nexora",
+      "sihId": "SIH26028",
+      "projectName": "Dynamic Forecast of Expected Time of Arrival (ETA) for Coaching Trains",
+      "shortProjectName": "Dynamic Train Arrival ETA Forecast",
+      "theme": "Smart Automation",
+      "teamLeader": "Vandit Shah",
+      "department": "KJ Somaiya Institute of Management",
+      "members": [
+        "Vandit Shah"
+      ],
+      "judgement": {
+        "round1": null,
+        "round2": null,
+        "round3": null,
+        "finalAverage": null,
+        "isFinalized": false,
+        "status": "NOT_STARTED"
+      },
+      "roundScores": [],
+      "history": [],
+      "createdAt": "2026-09-23T07:05:56.101Z",
+      "updatedAt": "2026-09-23T07:38:01.642Z"
+    },
+    {
+      "id": "team-05",
+      "groupNumber": 5,
+      "teamNumber": "TEAM-05",
+      "teamName": "E20Squad",
+      "sihId": "SIH26100",
+      "projectName": "AI-Powered Integrated Bid Compliance Verification Platform for GeM Procurement",
+      "shortProjectName": "GeM Procurement Bid Compliance AI",
+      "theme": "Smart Automation",
+      "teamLeader": "Sahil Tambe",
+      "department": "KJ Somaiya Institute of Management",
+      "members": [
+        "Sahil Tambe"
+      ],
+      "judgement": {
+        "round1": null,
+        "round2": null,
+        "round3": null,
+        "finalAverage": null,
+        "isFinalized": false,
+        "status": "NOT_STARTED"
+      },
+      "roundScores": [],
+      "history": [],
+      "createdAt": "2026-09-23T07:05:56.101Z",
+      "updatedAt": "2026-09-23T07:38:01.642Z"
+    },
+    {
+      "id": "team-06",
+      "groupNumber": 6,
+      "teamNumber": "TEAM-06",
+      "teamName": "Byte Brigade",
+      "sihId": "SIH26034",
+      "projectName": "Software System to check compliance of Packaged Commodities under Legal Metrology(Packaged Commodities) Rules, 2011 by scanning products, images and labels.",
+      "shortProjectName": "Legal Metrology Compliance Scanner",
+      "theme": "Miscellaneous",
+      "teamLeader": "Saakshi Mishra",
+      "department": "KJ Somaiya Institute of Management",
+      "members": [
+        "Saakshi Mishra"
+      ],
+      "judgement": {
+        "round1": null,
+        "round2": null,
+        "round3": null,
+        "finalAverage": null,
+        "isFinalized": false,
+        "status": "NOT_STARTED"
+      },
+      "roundScores": [],
+      "history": [],
+      "createdAt": "2026-09-23T07:05:56.101Z",
+      "updatedAt": "2026-09-23T07:38:01.642Z"
+    },
+    {
+      "id": "team-07",
+      "groupNumber": 7,
+      "teamNumber": "TEAM-07",
+      "teamName": "DragonFlys",
+      "sihId": "SIH26136",
+      "projectName": "Startup friendly public procurement mechanism that enables government departments to identify,pilot, procure,and scale innovative solutions from eligible startups",
+      "shortProjectName": "Startup Public Procurement Mechanism",
+      "theme": "Miscellaneous",
+      "teamLeader": "Kaustubh Ghadshi",
+      "department": "KJ Somaiya Institute of Management",
+      "members": [
+        "Kaustubh Ghadshi"
+      ],
+      "judgement": {
+        "round1": null,
+        "round2": null,
+        "round3": null,
+        "finalAverage": null,
+        "isFinalized": false,
+        "status": "NOT_STARTED"
+      },
+      "roundScores": [],
+      "history": [],
+      "createdAt": "2026-09-23T07:05:56.101Z",
+      "updatedAt": "2026-09-23T07:38:01.642Z"
+    },
+    {
+      "id": "team-08",
+      "groupNumber": 8,
+      "teamNumber": "TEAM-08",
+      "teamName": "Binary Brains",
+      "sihId": "SIH26151",
+      "projectName": "Dark web threat actor de-anonymization",
+      "shortProjectName": "Dark Web Threat De-Anonymization",
+      "theme": "Blockchain & Cybersecurity",
+      "teamLeader": "Aryan Dalvi",
+      "department": "KJ Somaiya Institute of Management",
+      "members": [
+        "Aryan Dalvi"
+      ],
+      "judgement": {
+        "round1": null,
+        "round2": null,
+        "round3": null,
+        "finalAverage": null,
+        "isFinalized": false,
+        "status": "NOT_STARTED"
+      },
+      "roundScores": [],
+      "history": [],
+      "createdAt": "2026-09-23T07:05:56.101Z",
+      "updatedAt": "2026-09-23T07:38:01.642Z"
+    },
+    {
+      "id": "team-09",
+      "groupNumber": 9,
+      "teamNumber": "TEAM-09",
+      "teamName": "Aarambh",
+      "sihId": "SIH26044",
+      "projectName": "Portal for Academia - Industry collaboration for Skill Mapping, Internships and Placement",
+      "shortProjectName": "Academia-Industry Placement Portal",
+      "theme": "Smart Automation",
+      "teamLeader": "Nikhil Gupta",
+      "department": "KJ Somaiya Institute of Management",
+      "members": [
+        "Nikhil Gupta"
+      ],
+      "judgement": {
+        "round1": null,
+        "round2": null,
+        "round3": null,
+        "finalAverage": null,
+        "isFinalized": false,
+        "status": "NOT_STARTED"
+      },
+      "roundScores": [],
+      "history": [],
+      "createdAt": "2026-09-23T07:05:56.101Z",
+      "updatedAt": "2026-09-23T07:38:01.642Z"
+    },
+    {
+      "id": "team-10",
+      "groupNumber": 10,
+      "teamNumber": "TEAM-10",
+      "teamName": "Cheatcodes",
+      "sihId": "SIH26033",
+      "projectName": "Multiple intermediaries reduce farmers earnings and increase consumer prices.",
+      "shortProjectName": "Direct Farmer Marketplace & Disintermediation",
+      "theme": "Agriculture, FoodTech & Rural Development",
+      "teamLeader": "Shardul Rajesh Patil",
+      "department": "KJ Somaiya Institute of Management",
+      "members": [
+        "Shardul Rajesh Patil"
+      ],
+      "judgement": {
+        "round1": null,
+        "round2": null,
+        "round3": null,
+        "finalAverage": null,
+        "isFinalized": false,
+        "status": "NOT_STARTED"
+      },
+      "roundScores": [],
+      "history": [],
+      "createdAt": "2026-09-23T07:05:56.101Z",
+      "updatedAt": "2026-09-23T07:38:01.642Z"
+    },
+    {
+      "id": "team-11",
+      "groupNumber": 11,
+      "teamNumber": "TEAM-11",
+      "teamName": "Desi Developers",
+      "sihId": "SIH26229",
+      "projectName": "Kabadiwala Connect – Bringing the Informal Collector into the Formal Recycling Chain",
+      "shortProjectName": "Kabadiwala Connect Recycling Network",
+      "theme": "Clean & Green Technology",
+      "teamLeader": "Kashish Sanjay Maurya",
+      "department": "KJ Somaiya Institute of Management",
+      "members": [
+        "Kashish Sanjay Maurya"
+      ],
+      "judgement": {
+        "round1": null,
+        "round2": null,
+        "round3": null,
+        "finalAverage": null,
+        "isFinalized": false,
+        "status": "NOT_STARTED"
+      },
+      "roundScores": [],
+      "history": [],
+      "createdAt": "2026-09-23T07:05:56.101Z",
+      "updatedAt": "2026-09-23T07:38:01.642Z"
+    },
+    {
+      "id": "team-12",
+      "groupNumber": 12,
+      "teamNumber": "TEAM-12",
+      "teamName": "Tacobytes",
+      "sihId": "SIH26117",
+      "projectName": "Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work",
+      "shortProjectName": "Sovereign Agentic AI Workbench",
+      "theme": "Smart Automation",
+      "teamLeader": "Krishna Mahajan",
+      "department": "KJ Somaiya Institute of Management",
+      "members": [
+        "Krishna Mahajan"
+      ],
+      "judgement": {
+        "round1": null,
+        "round2": null,
+        "round3": null,
+        "finalAverage": null,
+        "isFinalized": false,
+        "status": "NOT_STARTED"
+      },
+      "roundScores": [],
+      "history": [],
+      "createdAt": "2026-09-23T07:05:56.101Z",
+      "updatedAt": "2026-09-23T07:38:01.642Z"
+    },
+    {
+      "id": "team-13",
+      "groupNumber": 13,
+      "teamNumber": "TEAM-13",
+      "teamName": "ByteCoders",
+      "sihId": "SIH26145",
+      "projectName": "AI-Based Detection of Cyber Threats in Unidirectional IP Traffic",
+      "shortProjectName": "Unidirectional IP Threat Detection",
+      "theme": "Blockchain & Cybersecurity",
+      "teamLeader": "Shubham Chaubey",
+      "department": "KJ Somaiya Institute of Management",
+      "members": [
+        "Shubham Chaubey"
+      ],
+      "judgement": {
+        "round1": null,
+        "round2": null,
+        "round3": null,
+        "finalAverage": null,
+        "isFinalized": false,
+        "status": "NOT_STARTED"
+      },
+      "roundScores": [],
+      "history": [],
+      "createdAt": "2026-09-23T07:05:56.101Z",
+      "updatedAt": "2026-09-23T07:38:01.642Z"
+    },
+    {
+      "id": "team-14",
+      "groupNumber": 14,
+      "teamNumber": "TEAM-14",
+      "teamName": "First Row",
+      "sihId": "SIH26176",
+      "projectName": "ORCA Marine EcOsystem Reasoning with Collaborative Agents",
+      "shortProjectName": "ORCA Marine Multi-Agent AI",
+      "theme": "Space Technology",
+      "teamLeader": "Abin Cheruvathoor",
+      "department": "KJ Somaiya Institute of Management",
+      "members": [
+        "Abin Cheruvathoor"
+      ],
+      "judgement": {
+        "round1": null,
+        "round2": null,
+        "round3": null,
+        "finalAverage": null,
+        "isFinalized": false,
+        "status": "NOT_STARTED"
+      },
+      "roundScores": [],
+      "history": [],
+      "createdAt": "2026-09-23T07:05:56.101Z",
+      "updatedAt": "2026-09-23T07:38:01.642Z"
+    },
+    {
+      "id": "team-15",
+      "groupNumber": 15,
+      "teamNumber": "TEAM-15",
+      "teamName": "DarKnight",
+      "sihId": "SIH26043",
+      "projectName": "A digital platform to crowdsource societal challenges and facilitate collaborative problem solving through universities and industry partnerships",
+      "shortProjectName": "Collaborative Societal Challenge Platform",
+      "theme": "Smart Education",
+      "teamLeader": "Aniket Salve",
+      "department": "KJ Somaiya Institute of Management",
+      "members": [
+        "Aniket Salve"
+      ],
+      "judgement": {
+        "round1": null,
+        "round2": null,
+        "round3": null,
+        "finalAverage": null,
+        "isFinalized": false,
+        "status": "NOT_STARTED"
+      },
+      "roundScores": [],
+      "history": [],
+      "createdAt": "2026-09-23T07:05:56.101Z",
+      "updatedAt": "2026-09-23T07:38:01.642Z"
+    },
+    {
+      "id": "team-16",
+      "groupNumber": 16,
+      "teamNumber": "TEAM-16",
+      "teamName": "HexaHack",
+      "sihId": "SIH26016",
+      "projectName": "Real-Time National Land Acquisition & Management System for End-to-End Digital Monitoring and Decision Support",
+      "shortProjectName": "National Land Acquisition & Monitoring",
+      "theme": "Smart Automation",
+      "teamLeader": "Dhruvi Jayesh Devalia",
+      "department": "KJ Somaiya Institute of Management",
+      "members": [
+        "Dhruvi Jayesh Devalia"
+      ],
+      "judgement": {
+        "round1": null,
+        "round2": null,
+        "round3": null,
+        "finalAverage": null,
+        "isFinalized": false,
+        "status": "NOT_STARTED"
+      },
+      "roundScores": [],
+      "history": [],
+      "createdAt": "2026-09-23T07:05:56.101Z",
+      "updatedAt": "2026-09-23T07:38:01.642Z"
+    }
+  ],
+  "eventStatus": "LIVE",
+  "roundConfig": {
+    "round1Max": 100,
+    "round2Max": 100,
+    "round3Max": 100
+  },
+  "revealSession": {
+    "isActive": false,
+    "status": "LOCKED",
+    "currentRank": 5,
+    "subStep": "rank",
+    "countdownValue": 3
+  },
+  "lastUpdated": "2026-09-23T08:21:37.206Z",
+  "adminUsers": [
+    {
+      "id": "admin-01",
+      "email": "admin@somaiya.edu",
+      "passwordHash": "$2b$10$o45H03PzZg1grfGX2FQOMOH2WIMDGB7PNbClQaqmMuVEdzNs3/0Qa",
+      "name": "Somaiya SIH Administrator",
+      "role": "superadmin"
+    },
+    {
+      "id": "admin-02",
+      "email": "judge@somaiya.edu",
+      "passwordHash": "$2b$10$o45H03PzZg1grfGX2FQOMOH2WIMDGB7PNbClQaqmMuVEdzNs3/0Qa",
+      "name": "Chief Jury Panel",
+      "role": "judge"
+    }
+  ],
+  "previousRanks": {
+    "team-03": 1,
+    "team-01": 2,
+    "team-02": 3,
+    "team-04": 4,
+    "team-05": 5,
+    "team-06": 6,
+    "team-07": 7,
+    "team-08": 8,
+    "team-09": 9,
+    "team-10": 10,
+    "team-11": 11,
+    "team-12": 12,
+    "team-13": 13,
+    "team-14": 14,
+    "team-15": 15,
+    "team-16": 16
+  }
+}

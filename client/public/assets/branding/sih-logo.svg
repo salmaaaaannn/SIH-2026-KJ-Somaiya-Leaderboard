@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 90" width="380" height="90" fill="none">
+  <!-- SIH 2026 Hexagon / Circuit Gear Icon -->
+  <g transform="translate(10, 8)">
+    <rect width="74" height="74" rx="16" fill="#111827" />
+    <!-- Gradient / Glow border -->
+    <rect x="1" y="1" width="72" height="72" rx="15" stroke="url(#sih-grad)" stroke-width="2" fill="none" />
+    
+    <!-- Indian Tricolor Tech Accent Lines -->
+    <line x1="8" y1="20" x2="66" y2="20" stroke="#FF9933" stroke-width="2.5" stroke-linecap="round" opacity="0.9"/>
+    <line x1="14" y1="26" x2="60" y2="26" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="20" y1="32" x2="54" y2="32" stroke="#138808" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+
+    <!-- Central Code / Node Symbol -->
+    <path d="M26 48 L20 54 L26 60" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M48 48 L54 54 L48 60" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="39" y1="46" x2="35" y2="62" stroke="#F43F5E" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Typography -->
+  <g transform="translate(98, 8)">
+    <!-- Main SIH 2026 -->
+    <text x="0" y="32" font-family="'Inter', 'Manrope', 'Segoe UI', sans-serif" font-weight="900" font-size="26" fill="#111827" letter-spacing="-0.5">
+      SIH <tspan fill="#A01C24">2026</tspan>
+    </text>
+    
+    <!-- Subtitle -->
+    <text x="0" y="52" font-family="'Inter', 'Manrope', 'Segoe UI', sans-serif" font-weight="700" font-size="13.5" fill="#1E293B" letter-spacing="0.5">
+      SMART INDIA HACKATHON
+    </text>
+
+    <!-- Category / Edition -->
+    <text x="0" y="68" font-family="'Inter', 'Manrope', 'Segoe UI', sans-serif" font-weight="600" font-size="10.5" fill="#64748B" letter-spacing="1.2">
+      INTERNAL EDITIONS • MHRD &amp; AICTE
+    </text>
+  </g>
+
+  <defs>
+    <linearGradient id="sih-grad" x1="0" y1="0" x2="74" y2="74" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF9933" />
+      <stop offset="50%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#138808" />
+    </linearGradient>
+  </defs>
+</svg>
